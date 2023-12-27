@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Tnk_csspProject
+  gitServerName: TNKGithub
+  gitUrl: https://github.com/tnk1422/Tnk_csspProject
+  gitUsername: tnk1422
+  gitBranch: main
